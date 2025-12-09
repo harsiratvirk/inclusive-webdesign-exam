@@ -1,5 +1,4 @@
-# Exam_Inclusive Web Design
-**Examination in DATA1200 - Inclusive Web Design**
+# Examination in DATA1200 Inclusive Web Design
 
 **Grade**: A
 
